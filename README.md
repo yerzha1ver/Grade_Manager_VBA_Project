@@ -16,4 +16,5 @@ A VBA-powered tool for educators to manage multi-section courses. Features autom
    - c: Section in form of consecutive numbers (e.g., 101, 102, 103, 104)
 
 NOTE: A sample roster file to be imported has been attached
+
 3. **Click "Create different sections"** to create files for each section in the same folder as the main manager itself
